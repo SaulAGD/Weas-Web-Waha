@@ -1,0 +1,9 @@
+.bg-white{background-color: #fff;}
+.bg-black{background-color: #000;}
+.bg-red{background-color: #ff0000;}
+.bg-blue{background-color: #00ff;}
+.bg-yellow{background-color: #ffff00;}
+.bg-green{background-color: #008000;}
+.bg-rgba{background: linear-gradient(to right, rgb(161, 26, 214), rgb(228, 61, 39))}
+
+.color-white{color: white;}
